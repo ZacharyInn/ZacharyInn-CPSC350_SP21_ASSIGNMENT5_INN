@@ -2,7 +2,7 @@ Zachary Inn
 2376935
 inn@chapman.edu
 CPSC-350-02
-Assignment 3: (An Average) Life
+Assignment 5: Registrars Office
 
 Darren Pak
 2375925
